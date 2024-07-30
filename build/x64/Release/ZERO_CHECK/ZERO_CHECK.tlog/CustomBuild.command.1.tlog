@@ -1,0 +1,10 @@
+^C:\USERS\MAXIM\DESKTOP\C++ TCPIP SERVER\BUILD\CMAKEFILES\B15455623872244E3F01E3203FF924E5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Maxim/Desktop/c++ tcpip server" "-BC:/Users/Maxim/Desktop/c++ tcpip server/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Maxim/Desktop/c++ tcpip server/build/Makstvell_TCP.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

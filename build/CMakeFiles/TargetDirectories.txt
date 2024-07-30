@@ -1,0 +1,3 @@
+C:/Users/Maxim/Desktop/c++ tcpip server/build/CMakeFiles/Makstvell_TCP.dir
+C:/Users/Maxim/Desktop/c++ tcpip server/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Maxim/Desktop/c++ tcpip server/build/CMakeFiles/ZERO_CHECK.dir
